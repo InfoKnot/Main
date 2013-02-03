@@ -1,0 +1,12 @@
+E:\InfoKnot\InfoKnotApplicationVersion2.0\InfoKnotApplicationVersion2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\InfoKnot\InfoKnotApplicationVersion2.0\InfoKnotApplicationVersion2.0\obj\x86\Debug\InfoKnotApplicationVersion2._0.UserHomeScreenApple.resources
+E:\InfoKnot\InfoKnotApplicationVersion2.0\InfoKnotApplicationVersion2.0\obj\x86\Debug\InfoKnotApplicationVersion2._0.Resources.resources
+E:\InfoKnot\InfoKnotApplicationVersion2.0\InfoKnotApplicationVersion2.0\obj\x86\Debug\InfoKnotApplicationVersion2._0.UserLoginApple.resources
+E:\InfoKnot\InfoKnotApplicationVersion2.0\InfoKnotApplicationVersion2.0\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\InfoKnot\InfoKnotApplicationVersion2.0\InfoKnotApplicationVersion2.0\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\InfoKnot\InfoKnotApplicationVersion2.0\InfoKnotApplicationVersion2.0\bin\Debug\InfoKnotApplicationVersion2.0.exe
+E:\InfoKnot\InfoKnotApplicationVersion2.0\InfoKnotApplicationVersion2.0\bin\Debug\InfoKnotApplicationVersion2.0.pdb
+E:\InfoKnot\InfoKnotApplicationVersion2.0\InfoKnotApplicationVersion2.0\bin\Debug\InfoKnotApplicationVersion2.0.xml
+E:\InfoKnot\InfoKnotApplicationVersion2.0\InfoKnotApplicationVersion2.0\obj\x86\Debug\InfoKnotApplicationVersion2.0.exe
+E:\InfoKnot\InfoKnotApplicationVersion2.0\InfoKnotApplicationVersion2.0\obj\x86\Debug\InfoKnotApplicationVersion2.0.xml
+E:\InfoKnot\InfoKnotApplicationVersion2.0\InfoKnotApplicationVersion2.0\obj\x86\Debug\InfoKnotApplicationVersion2.0.pdb
